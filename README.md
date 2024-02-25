@@ -118,4 +118,5 @@ eas build --profile preview --platform android --local
 ```
 
 android file transfer で転送
+
 もしくは、Google Drive 経由で実機へ転送
